@@ -1,3 +1,4 @@
 # Evolution_algorihtm_to_play_ball_game
-Making a game with Godot game engine and training a AI to play the game using evolution algorithm.
+If the ball touches the spikes above or below it dies.
+
 ![Final result](https://media.giphy.com/media/wfIvpERPBebgUvsOw2/giphy.gif)
